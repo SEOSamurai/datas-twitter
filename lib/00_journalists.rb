@@ -14,8 +14,3 @@ puts mail.grep(/[0-9]/).count
 puts mail.length
 
 
-
-
-
-
-
